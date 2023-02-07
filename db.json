@@ -1,0 +1,183 @@
+{
+  "projects": [
+    {
+      "name": "Projeto 4555",
+      "budget": "13000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "Ivani Maria da Silva",
+          "cost": "2000",
+          "description": "faz isso",
+          "id": "0498135a-3aa2-4d35-ab04-c04100127fcc"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Abner Suhett",
+      "budget": "4454545",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 3820,
+      "services": [
+        {
+          "name": "Contratar um Dev",
+          "cost": "600",
+          "description": "fazer funcoes javascript",
+          "id": "73547f48-e753-469d-8b45-2d1bbe0d79c9"
+        },
+        {
+          "name": "Contratar um Dev",
+          "cost": "600",
+          "description": "fazer funcoes javascript",
+          "id": "73547f48-e753-469d-8b45-2d1bbe0d79c9"
+        },
+        {
+          "name": "Contratar um Dev",
+          "cost": "600",
+          "description": "fazer funcoes javascript",
+          "id": "73547f48-e753-469d-8b45-2d1bbe0d79c9"
+        },
+        {
+          "cost": "20",
+          "name": "Abner",
+          "description": "faz isso",
+          "id": "600613e4-7339-4494-a2fe-863861b4a98a"
+        },
+        {
+          "name": "Ivani Maria da Silva",
+          "cost": "2000",
+          "description": "faz isso",
+          "id": "73b4123b-39c2-4c6e-abe2-b654c8eddfa4"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "projeto 3",
+      "budget": "555555",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Abner Suhett",
+      "budget": "4455454",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Meu projeto 1",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Meu projeto 1",
+      "budget": "1500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "Contratar faxineira",
+          "cost": "300",
+          "description": "limpar a sala",
+          "id": "326c931f-5e72-4028-97d6-b491cc744a8a"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "Abner Suhett",
+      "budget": "4444545",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "Abner Suhett",
+      "budget": "45465444",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "construir casa",
+      "budget": "100000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [
+        {
+          "name": "pedreiro",
+          "cost": "30000",
+          "description": "fazer obra",
+          "id": "61b92c3d-2076-4d58-b17e-8dee1e35045e"
+        }
+      ],
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
